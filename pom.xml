@@ -15,10 +15,7 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-  <build>
-    <finalName>FirstOpenshiftDeploy</finalName>
-   
-  </build>
+
   <profiles>
     <profile>
      <!-- When built in OpenShift the 'openshift' profile will be used when invoking mvn. -->
